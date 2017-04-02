@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="socket.io.min.js"></script>
+		<script type="text/javascript" src="index.js"></script>
+		<script type="text/javascript">
+			window.onload = function () {
+				console.log("loaded");
+				setupSocket("http://localhost:3001");
+				setupEventListeners();
+			};
+		</script>
+	</head>
+	<body>
+		<button id="btn-data" type="button">Get Data</button>
+	</body>
+</html>
