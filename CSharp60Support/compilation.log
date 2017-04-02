@@ -1,0 +1,57 @@
+********************************************************************************
+*                      Sunday, April 02, 2017 3:57:34 AM                       *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 2.0.3.30
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\UR Device Program\Documents\Hololens Motorcycle
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity 'Data' or 'Frameworks' directory: C:/Program Files/Unity/Editor/Data
+Compiler: Microsoft C# 6.0
+
+- Compilation -----------------------------------------------
+
+Process: C:\Users\UR Device Program\Documents\Hololens Motorcycle\CSharp60Support\Roslyn\csc.exe
+Arguments: -nostdlib+ -noconfig -nologo -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll" @Temp/UnityTempFile-cb580bf8d8dce794babfce3bebdefd6f 
+Exit code: 1
+Elapsed time: 1.48 sec
+
+- Compiler output (0 lines):
+
+- Compiler errors (6 lines):
+0: Assets\UpdateHUD.cs(5,1): error CS1028: Unexpected preprocessor directive
+1: Assets\UpdateHUD.cs(120,57): error CS1003: Syntax error, ',' expected
+2: Assets\UpdateHUD.cs(120,57): error CS1010: Newline in constant
+3: Assets\UpdateHUD.cs(120,60): error CS1003: Syntax error, ',' expected
+4: Assets\UpdateHUD.cs(121,24): error CS1026: ) expected
+5: Assets\UpdateHUD.cs(122,10): error CS1513: } expected
+********************************************************************************
+*                      Sunday, April 02, 2017 3:58:04 AM                       *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 2.0.3.30
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\UR Device Program\Documents\Hololens Motorcycle
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity 'Data' or 'Frameworks' directory: C:/Program Files/Unity/Editor/Data
+Compiler: Microsoft C# 6.0
+
+- Compilation -----------------------------------------------
+
+Process: C:\Users\UR Device Program\Documents\Hololens Motorcycle\CSharp60Support\Roslyn\csc.exe
+Arguments: -nostdlib+ -noconfig -nologo -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll" -r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll" @Temp/UnityTempFile-a640e3a9c91f14746b36746f7517289f 
+Exit code: 0
+Elapsed time: 4.95 sec
+
+- Compiler output (0 lines):
+
+- Compiler errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\UR Device Program\Documents\Hololens Motorcycle\CSharp60Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.16 sec
+
+- pdb2mdb.exe output (0 lines):
